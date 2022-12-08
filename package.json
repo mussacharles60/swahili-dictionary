@@ -1,0 +1,36 @@
+{
+  "name": "swahili-dictionary",
+  "version": "1.0.0",
+  "description": "Swahili dictionary",
+  "main": "index.js",
+  "scripts": {
+    "parse": "node src/parser-1.js"
+  },
+  "keywords": [
+    "swahili-dictionary",
+    "swahili",
+    "dictionary",
+    "kamusi",
+    "nlp",
+    "machine-learning",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Mussa Charles",
+    "email": "mussacharles60@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mussacharles60/swahili-dictionary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mussacharles60/swahili-dictionary/issues"
+  },
+  "homepage": "https://github.com/mussacharles60/swahili-dictionary#readme",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.1.0",
+    "pdf-parse": "^1.1.1",
+    "spacy": "^0.0.4"
+  }
+}
