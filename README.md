@@ -1,11 +1,14 @@
 # swahili-dictionary
+
 Getting started with swahili dictionary embed to your projects.
 
 # Contributions
+
 Please help us make this project work as intended for other developers.
 Everyone is welcome
 
 --- Give a star if you like this project.
+
 # License
 
 MIT License
@@ -29,3 +32,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+<!-- that working to this work -->
